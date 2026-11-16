@@ -20,15 +20,15 @@ Add new cars to the game without manually replacing the original files. Map supp
 
 ## DEMONSTRATION
 
-![In-game screenshot-0](docs/media/00-car.png)
+![In-game screenshot-0](docs/media/00-car.jpg)
 
-![In-game screenshot-1](docs/media/01-car.png)
+![In-game screenshot-1](docs/media/01-car.jpg)
 
-![In-game screenshot-2](docs/media/02-car.png)
+![In-game screenshot-2](docs/media/02-car.jpg)
 
-![In-game screenshot-3](docs/media/03-car.png)
+![In-game screenshot-3](docs/media/03-car.jpg)
 
-![In-game screenshot-4](docs/media/04-car.png)
+![In-game screenshot-4](docs/media/04-car.jpg)
 
 ### VIDEO
 
