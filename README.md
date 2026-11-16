@@ -32,7 +32,7 @@ Add new cars to the game without manually replacing the original files. Map supp
 
 ### VIDEO
 
-[![Watch the gameplay demonstration](docs/media/05-thumbnail.png)](docs/media/showcase.mp4)
+[![Watch the gameplay demonstration](docs/media/05-thumbnail.png)](docs/media/06-showcase.mp4)
 
 *Click the preview to watch the video demonstration.*
 
