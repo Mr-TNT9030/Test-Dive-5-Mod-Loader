@@ -10,7 +10,7 @@ Add new cars to the game without manually replacing the original files. Map supp
 ![Platform](https://img.shields.io/badge/Platform-Windows-7C91F5?style=flat&labelColor=382448)
 
 > [!IMPORTANT]
-> **Get the latest verion:** Download the mod loader from the [Releases]() page.
+> **Get the latest verion:** Download the mod loader from the [Releases](https://github.com/Mr-TNT9030/Test-Dive-5-Mod-Loader/releases) page.
 ## FEATURES
 
 - **Additional Cars** — Add up to 128 cars to the game.
